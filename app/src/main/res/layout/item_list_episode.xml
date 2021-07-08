@@ -18,7 +18,18 @@
         <TextView
             style="@style/CharacterDetailLocationSectionBody"
             android:text="@{episode.name}"
-            tools:text="The ABC's of Beth" />
+            tools:text="The ABC's of Beth"
+            android:layout_marginTop="15dp"
+            android:gravity="left"
+            android:layout_marginLeft="10dp"/>
+
+        <TableRow
+            android:layout_width="350dp"
+            android:layout_height="1dp"
+            android:background="#2A212121"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"/>
 
     </LinearLayout>
 </layout>

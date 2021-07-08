@@ -16,7 +16,7 @@
 
     <!-- Sections -->
     <string name="section_gender">Gender</string>
-    <string name="section_list_of_episodes">List of episodes</string>
+    <string name="section_list_of_episodes">Episodes</string>
     <string name="section_location">Location</string>
     <string name="section_origin">Origin</string>
     <string name="section_species">Species</string>
