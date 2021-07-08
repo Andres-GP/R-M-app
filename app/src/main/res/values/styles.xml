@@ -30,7 +30,7 @@
     </style>
 
     <style name="FavoriteListItemName" parent="CharacterListItemName">
-        <item name="android:background">@color/colorTransparentFavorite</item>
+
     </style>
 
     <style name="CharacterDetailSectionTitle">
