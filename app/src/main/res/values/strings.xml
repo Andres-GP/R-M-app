@@ -11,7 +11,7 @@
     <string name="error_no_character_data">There is no data related to this character.</string>
 
     <!-- Menus -->
-    <string name="menu_navigation_list">Character</string>
+    <string name="menu_navigation_list">Characters</string>
     <string name="menu_navigation_favorites">Favorites</string>
 
     <!-- Sections -->
