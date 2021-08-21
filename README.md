@@ -4,8 +4,6 @@ Native R&M tracking app made with Kotlin
 
 ---
 
-Find it on Google's Playstore:
-
 ![Features Graph](https://user-images.githubusercontent.com/81189565/130144865-d70a9f67-f2a1-4cd2-83c3-9f146778216b.png)
 
 # Features
